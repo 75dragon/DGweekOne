@@ -16,6 +16,7 @@ public class FirstPanel extends JPanel
 	{
 	}
 	
+	@Override
 	public void paint(Graphics g)
 	{
 		g.setColor(Color.WHITE);
